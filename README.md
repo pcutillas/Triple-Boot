@@ -1,6 +1,6 @@
 # MSI GS65 Stealth Thin Triple Boot
 
-[!]()
+![boot image](https://github.com/Frenchman98/Triple-Boot/blob/master/demo.jpg)
 
 Resources and guide for triple booting Windows 10, Elementary OS, and macOS 11 Big Sur on an MSI GS65 Stealth Thin 8RF laptop, using OpenCore and rEFInd.
 
